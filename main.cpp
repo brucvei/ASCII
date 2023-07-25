@@ -1,4 +1,6 @@
 #include <iostream>
+#include <openacc.h>
+//#incluce <opencv4/opencv2/opencv.hpp>
 #include <opencv2/opencv.hpp>
 #include <opencv2/core/core.hpp>
 #include <opencv2/highgui/highgui.hpp>
@@ -12,3 +14,4 @@ int main() {
 
     return 0;
 }
+// https://youtu.be/Xp6j7m7rqBc?t=384
